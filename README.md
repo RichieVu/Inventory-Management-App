@@ -19,10 +19,6 @@ Built for the Headstarter Fellowship Program
 
 - [ ] AI features to classify inventory
 
-### Won't have
-
-- [ ] 
-
 ## Build with
 
 - Next.js
